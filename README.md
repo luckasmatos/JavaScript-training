@@ -33,4 +33,25 @@ Projetos desenvolvidos durante o aprendizado de JavaScript.
 <br>
 ==> DESAFIO 3 - FUNÇÕES
 <br>
-• D3-Ex1:
+• D3-Ex1: Crie um programa onde você chame uma função enviando um número e a função imprima na tela os número de 1 até o número enviado.<br>
+• D3-Ex2: Crie um programa onde você chame uma função enviando um número entre 1 e 10 e a função imprima na tela a tabuada de 1 a 10 do valor enviado.<br>
+• D3-Ex3: Crie um programa onde você chame uma função e ela imprima na tela a hora exata.<br>
+• D3-Ex4: Crie um programa onde você chame uma função e ela imprima na tela o ano atual.<br>
+• D3-Ex5: Crie um programa com dois números de entrada e utilize uma função para verificar e imprimir na tela qual deles é o maior.<br>
+• D3-Ex6: Crie um programa com dados de salário e número de filhos de usuários. Utilize uma função para verificar qual o maior salário, qual a média salarial e a média de filhos. A função deverá ser interrompida ao verificar um salário negativo na lista.<br>
+• D3-Ex7: Crie um programa onde você chame uma função para verificar a rentabilidade mensal de um investimento.<br>
+• D3-Ex8: Crie um programa utilizando uma função para gerar desconto a uma compra de acordo com as seguintes condições:<br>
+  - Primeira compra, pagamento à vista e valor igual ou superior a 1000 = 30%<br>
+  - Primeira compra, pagamento à vista e valor inferior a 1000 e superior ou igual a 500 = 25%<br>
+  - Primeira compra, pagamento à vista e valor inferior a 500 = 20%<br>
+  - Não é a primeira compra, pagamento à vista e valor igual ou superior a 1000 = 20%<br>
+  - Não é a primeira compra, pagamento à vista e valor inferior a 1000 e superior ou igual a 500 = 15%<br>
+  - Não é a primeira compra, pagamento à vista e valor inferior a 500 = 10%<br>
+  - Primeira compra, pagamento não à vista e valor igual ou superior a 1000 = 20%<br>
+  - Primeira compra, pagamento não à vista e valor inferior a 1000 e superior ou igual a 500 = 15%<br>
+  - Primeira compra, pagamento não à vista e valor inferior a 500 = 10%<br>
+  - Não é a primeira compra, pagamento não à vista e valor igual ou superior a 1000 = 10%<br>
+  - Não é a primeira compra, pagamento não à vista e valor inferior a 1000 e superior ou igual a 500 = 5%<br>
+  - Não é a primeira compra, pagamento não à vista e valor inferior a 500 = SEM DESCONTO<br>
+Se o cliente recebeu desconto, imprima na tela o valor total dos produtos, o percentual de desconto e o valor total da compra com desconto.<br>
+Se o cliente não recebeu desconto, imprima na tela o valor total dos produtos e gere um desconto aleatório entre 10 e 20% para a próxima compra.<br>
