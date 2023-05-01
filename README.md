@@ -60,3 +60,24 @@ Projetos desenvolvidos durante o aprendizado de JavaScript.
 <br>
 Se o cliente recebeu desconto, imprima na tela o valor total dos produtos, o percentual de desconto e o valor total da compra com desconto.<br>
 Se o cliente não recebeu desconto, imprima na tela o valor total dos produtos e gere um desconto aleatório entre 10 e 20% para a próxima compra.<br>
+<br>
+==> DESAFIO 4 - MAP, FILTER E REDUCE
+<br>
+<br>
+• D4-Ex1: Utilizando uma lista com dados de clientes, crie uma nova array definindo o setor 'black' caso o cliente seja 'vip' ou 'green' caso não seja 'vip'.<br>
+• D4-Ex2: Utilizando uma lista com dados de estudantes, crie uma nova array definindo se o estudante foi aprovado de acordo com sua nota, caso seja maior ou igual a 7.<br>
+• D4-Ex3: Utilizando uma lista numérica, crie uma nova array com os números que forem pares e divizíveis por 5.<br>
+• D4-Ex4: Utilizando uma lista com dados de empresas, crie uma nova array com as empresas que tenham valor de marcado acima de 200 e data de fundação acima de 1975.<br>
+• D4-Ex5: Utilizando uma lista com dados de empresas, crie uma nova array com a soma do valor de mercado de todas as empresas.<br>
+• D4-Ex6: Utilizando uma lista com dados de empresas, realize as seguintes ações:<br>
+<br>
+
+  - Crie uma nova array somando 10% ao valor de mercado de cada empresa.<br>
+  - Crie uma nova array filtrando apenas as empresas fundadas até o ano de 2000.<br>
+  - Crie uma nova array somando o valor de mercado das empresas filtradas.<br>
+  
+ <br>
+
+
+
+
